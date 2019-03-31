@@ -1,0 +1,1 @@
+# PSR友好 :id=psr_friendly
