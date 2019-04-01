@@ -1,6 +1,6 @@
-![logo](_media/logo.svg 'size=300')
+![muaphp](_media/logo.svg ':size=200x200')
 
-# Cover <small>4.9.1</small>
+# MuaPHP <small>0.8.0</small>
 
 > php framework philosophy, just for you
 
