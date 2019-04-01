@@ -1,4 +1,4 @@
-![muaphp](_media/logo.svg ':size=200x200')
+![muaphp](assets/logo.svg ':size=200x200')
 
 # MuaPHP <small>0.8.0</small>
 
